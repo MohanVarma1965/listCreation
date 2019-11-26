@@ -42,7 +42,7 @@ padding: 15px;
 }
 
 .show{
-	display: visible;
+	display: initial;
 }
 
 .hidden{
